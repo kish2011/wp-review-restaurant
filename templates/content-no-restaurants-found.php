@@ -1,0 +1,1 @@
+<li class="no_restaurant_listings_found"><?php _e( 'No more restaurants found matching your selection.', 'wp-review-restaurant' ); ?></li>

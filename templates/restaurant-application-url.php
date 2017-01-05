@@ -1,0 +1,1 @@
+<p><?php printf( __( 'To enquire for this restaurant please visit the following URL: <a href="%1$s" target="_blank">%1$s &rarr;</a>', 'wp-review-restaurant' ), $enquire->url ); ?></p>
