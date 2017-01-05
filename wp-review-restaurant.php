@@ -7,7 +7,7 @@ Version: 1.5
 Author: Kishore
 Author URI: http://blog.kishorechandra.co.in/
 Requires at least: 3.8
-Tested up to: 4.6
+Tested up to: 4.7
 Text Domain: wp-review-restaurant
 Domain Path: /languages
 
