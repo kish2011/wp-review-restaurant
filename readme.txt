@@ -3,8 +3,8 @@ Contributors: kishores
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=L5DAL9AXTAG8L
 Tags: restaurant listing, restaurant board, restaurant, restaurants, restaurant
 Requires at least: 3.8
-Tested up to: 4.6
-Stable tag: 1.4
+Tested up to: 4.7
+Stable tag: 1.5
 
 Manage restaurant listings from the WordPress admin panel, and allow users to post restaurants directly to your site.
 
