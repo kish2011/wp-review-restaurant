@@ -3,7 +3,7 @@
 Plugin Name: WP Review Restaurant
 Plugin URI: http://opentuteplus.com/wp-review-restaurant
 Description: Manage restaurant review from the WordPress admin panel, and allow users to post reviews directly to your listed restaurant.
-Version: 1.4
+Version: 1.5
 Author: Kishore
 Author URI: http://blog.kishorechandra.co.in/
 Requires at least: 3.8
